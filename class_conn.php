@@ -8,11 +8,11 @@ $dbname = "myDB";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
+mysqli_set_charset($conn,"utf8"); //set ข้อมูลในฐานข้อมูลเป็นภาษาไทย
 // Check connection
 if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
 
 
-$conn->close();
 ?>

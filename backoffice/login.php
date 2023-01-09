@@ -9,6 +9,7 @@ if (isset($_POST['Username'])) {
     //query 
      $sql = "SELECT * FROM User Where Username='" . $Username . "' and Password='" . $Password . "' ";
 
+     
     $result = mysqli_query($conn, $sql);
 
     if (mysqli_num_rows($result) == 1) {
