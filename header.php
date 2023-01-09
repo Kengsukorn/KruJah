@@ -1,6 +1,3 @@
-<?php 
-include ("class_conn.php");
-?>
 
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
