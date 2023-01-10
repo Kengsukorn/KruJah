@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- Body Content -->
-<?php include 'page_components\home\banner.php' ?>
+<?php include 'banner.php' ?>
 
 
 <section id="content" style="background-color: rgb(230,230,230);">

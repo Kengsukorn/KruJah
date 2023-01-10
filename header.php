@@ -6,7 +6,7 @@ include "class_conn.php";
 <html dir="ltr" lang="en-US">
 
 <head>
-
+	<base href="./">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="author" content="SemiColonWeb" />
 

@@ -2,9 +2,9 @@
 date_default_timezone_set("Asia/Bangkok");
 
 $servername = "localhost";
-$username = "root";
-$password = "qwerty@123";
-$dbname = "myDB";
+$username = "u658774035_kay";
+$password = "Kay0887501188";
+$dbname = "u658774035_krujah";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);

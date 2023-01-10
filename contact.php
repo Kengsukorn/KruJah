@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<?php include 'page_components\contact\pagetitle.php'; ?>
+<?php include 'pagecomponents\contact\pagetitle.php'; ?>
 
 <!-- Content
 		============================================= -->
