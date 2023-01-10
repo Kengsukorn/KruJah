@@ -22,7 +22,7 @@ if (isset($_POST['Username'])) {
 
         if ($_SESSION["Userlevel"] == "A") { //ถ้าเป็น admin ให้กระโดดไปหน้า admin_page.php
 
-            Header("Location: admin_page.php");
+            Header("Location: index.php");
         }
 
         if ($_SESSION["Userlevel"] == "M") {  //ถ้าเป็น member ให้กระโดดไปหน้า user_page.php

@@ -10,7 +10,7 @@
 	                                <p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Create just what you need for your Perfect Website. Choose from a wide range of Elements &amp; simply put them on our Canvas.</p>
 	                            </div>
 	                        </div>
-	                        <div class="swiper-slide-bg" style="background-image: url('images/slider/swiper/1.jpg');"></div>
+	                        <div class="swiper-slide-bg" style="background-image: url('https://naruto-official.com/common/ogp/NTOS_OG-main.png');"></div>
 	                    </div>
 	                    <div class="swiper-slide dark">
 	                        <div class="container">
@@ -34,7 +34,7 @@
 	                                <p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
 	                            </div>
 	                        </div>
-	                        <div class="swiper-slide-bg" style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;"></div>
+	                        <div class="swiper-slide-bg" style="background-image: url('https://static.bandainamcoent.eu/high/dragon-ball/dragonball-project-z/00-page-setup/dbzk_game-thumbnail.jpg'); background-position: center top;"></div>
 	                    </div>
 	                </div>
 	                <div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
